@@ -1,0 +1,13 @@
+.buttons_container {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons_container button {
+    padding: 10px;
+    cursor: pointer;
+    background: #ffffff;
+    border: 1px solid #dac3c3;
+}
